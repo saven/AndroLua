@@ -1,5 +1,5 @@
 /*
- * $Id: LuaStateFactory.java,v 1.4 2006/12/22 14:06:40 thiago Exp $
+ * $Id: LuaStateFactory.java,v 1.4 2006-12-22 14:06:40 thiago Exp $
  * Copyright (C) 2003-2007 Kepler Project.
  *
  * Permission is hereby granted, free of charge, to any person obtaining
@@ -106,7 +106,7 @@ public final class LuaStateFactory
 	 */
 	public synchronized static void removeLuaState(int idx)
 	{
-		states.add(idx, null);
+		states.set(idx, null);
 	}
 	
 	/**

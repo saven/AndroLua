@@ -1,5 +1,5 @@
 /*
- * $Id: JavaFunction.java,v 1.6 2006/12/22 14:06:40 thiago Exp $
+ * $Id: JavaFunction.java,v 1.6 2006-12-22 14:06:40 thiago Exp $
  * Copyright (C) 2003-2007 Kepler Project.
  *
  * Permission is hereby granted, free of charge, to any person obtaining
